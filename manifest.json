@@ -36,9 +36,9 @@
    "type": "image/png"
   }
  ],
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "name": "Vinto"
+ "name": "Vinto",
+ "start_url": "index.htm?installed=true"
 }
